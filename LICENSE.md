@@ -1,4 +1,4 @@
-# 
+# Natif Sublime Text flux de travail pour Mac OS | Professionnel Sublime Text flux de travail pour PC Windows. Avec scripts pré-requête et IntelliSense — optimisé pour des performances maximales sur chaque plateforme.
 
 
 
